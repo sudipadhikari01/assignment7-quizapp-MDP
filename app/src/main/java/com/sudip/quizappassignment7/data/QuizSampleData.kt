@@ -22,7 +22,7 @@ class QuizSampleData {
 
                 QuizModel(
                     2,
-                    "3. For which of the following Android is mainly developed?",
+                    "2. For which of the following Android is mainly developed?",
                     IS_RADIO_BUTTON,
                     "Android is a software package and a Linux-based operating system specially designed for touch-screen mobile devices like smartphones and tablets.",
                     "d",
@@ -34,7 +34,7 @@ class QuizSampleData {
 
                 QuizModel(
                     3,
-                    "5. Android is based on which of the following language?",
+                    "3. Android is based on which of the following language?",
                     IS_RADIO_BUTTON,
                     "Java language is mainly used to write the android code even though other languages can be used.",
                     "a",
@@ -57,7 +57,7 @@ class QuizSampleData {
 
                 QuizModel(
                     5,
-                    "2. Under which of the following Android is licensed?",
+                    "5. Under which of the following Android is licensed?",
                     IS_RADIO_BUTTON,
                     "The Android platform was released under the Apache 2.0 license, and it is responsible for the copyright of the Android Open Source project.",
                     "c",
@@ -69,7 +69,7 @@ class QuizSampleData {
 
                 QuizModel(
                     6,
-                    "9. On which of the following, developers can test the application, during developing the android applications?",
+                    "6. On which of the following, developers can test the application, during developing the android applications?",
                     IS_CHECK_BOX,
                     "We can use the Android emulator, physical android phone, or third-party emulator as a target device to execute and test our Android application.",
                     "abc",
@@ -80,7 +80,7 @@ class QuizSampleData {
                 ),
                 QuizModel(
                     7,
-                    "6. APK stands for _____",
+                    "7. APK stands for _____",
                     IS_RADIO_BUTTON,
                     "An APK is a short form of the Android Package Kit. An APK file is the file format used to install the applications on the android operating system.",
                     "c",
@@ -91,7 +91,7 @@ class QuizSampleData {
                 ),
                 QuizModel(
                     8,
-                    "7. What does API stand for?",
+                    "8. What does API stand for?",
                     IS_RADIO_BUTTON,
                     "API stands for application program interface. It is a set of routines, protocols, and tools for building software and applications.",
                     "a",
@@ -102,7 +102,7 @@ class QuizSampleData {
                 ),
                 QuizModel(
                     9,
-                    "10. Which of the following is not an activity lifecycle callback method?",
+                    "9. Which of the following is not an activity lifecycle callback method?",
                     IS_RADIO_BUTTON,
                     "onBackPressed() method is not an activity lifecycle callback method",
                     "d",
@@ -113,7 +113,7 @@ class QuizSampleData {
                 ),
                 QuizModel(
                     10,
-                    "8. How can we kill an activity in android?",
+                    "10. How can we kill an activity in android?",
                     IS_CHECK_BOX,
                     "The finish() method is used to close the activity. Whereas the finishActivity(int requestCode) also closes the activity with requestCode.",
                     "ab",
@@ -124,7 +124,7 @@ class QuizSampleData {
                 ),
                 QuizModel(
                     11,
-                    "13. Which of the following is the parent class of Activity?",
+                    "11. Which of the following is the parent class of Activity?",
                     IS_RADIO_BUTTON,
                     "The android Activity is the subclass of ContextThemeWrapper class. Android Activity Lifecycle is controlled by 7 methods of android.app.Activity class. An activity is a single screen in android. It is like a window or frame of Java.",
                     "c",
@@ -135,7 +135,7 @@ class QuizSampleData {
                 ),
                 QuizModel(
                     12,
-                    "15. Which of the following method is used by services to clean up any services?",
+                    "12. Which of the following method is used by services to clean up any services?",
                     IS_RADIO_BUTTON,
                     "The onDestroy() method can be used by services to clean up any resources like receivers, threads, registered listeners, etc.",
                     "c",
@@ -147,7 +147,7 @@ class QuizSampleData {
 
                 QuizModel(
                     13,
-                    "11. Which of the following is a dialog class in android?",
+                    "13. Which of the following is a dialog class in android?",
                     IS_CHECK_BOX,
                     "All of the above are Dialog classes",
                     "abc",
@@ -158,7 +158,7 @@ class QuizSampleData {
                 ),
                 QuizModel(
                     14,
-                    "12. Which of the following android component displays the part of an activity on screen?",
+                    "14. Which of the following android component displays the part of an activity on screen?",
                     IS_RADIO_BUTTON,
                     "Android Fragment is the part of activity; it is also known as sub-activity. There can be more than one fragment in an activity. Fragments represent multiple screens inside one activity.",
                     "d",
@@ -170,7 +170,7 @@ class QuizSampleData {
 
                 QuizModel(
                     15,
-                    "14. Which of the following features are updated in Android 4.1(Jelly Bean)?",
+                    "15. Which of the following features are updated in Android 4.1(Jelly Bean)?",
                     IS_CHECK_BOX,
                     "Android 4.1(Jelly Bean) updates to following features: smoother user interface, enhance accessibility, expandable notification, fixed bug on Nexus 7, one-finger gestures to expand/collapse notifications, lock screen improvement, multiple user accounts (tablets only), new clock application, Bluetooth low energy support, volume for incoming call, 4K resolution support, native emoji support, bug fixes for the Nexus 7 LTE.",
                     "abc",
